@@ -16,7 +16,7 @@
     "email-validator": "^2.0.4",
     "express": "^4.17.1",
     "jbapp-logger": "^2.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "winston": "^3.2.1"
   }
 }
